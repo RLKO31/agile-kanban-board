@@ -1,4 +1,4 @@
-# 📋 Agile Kanban Board // Task & Sprint Manager
+# Agile Kanban Board // Task & Sprint Manager
 
 [![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen?logo=github)](https://RLKO31.github.io/agile-kanban-board/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -7,11 +7,11 @@
 
 A modern, responsive, and privacy-first **Agile Kanban Board** developed as part of an academic portfolio project. Designed for managing agile development sprints, thesis workflows, and personal tasks with zero server dependencies.
 
-👉 **Live Demo:** [https://RLKO31.github.io/agile-kanban-board/](https://RLKO31.github.io/agile-kanban-board/)
+**Live Demo:** [https://RLKO31.github.io/agile-kanban-board/](https://RLKO31.github.io/agile-kanban-board/)
 
 ---
 
-## ✨ Features
+## Features
 
 - **5 Agile Workflow Stages**:
   - `Backlog` (Idea inbox & unscheduled items)
@@ -39,7 +39,7 @@ A modern, responsive, and privacy-first **Agile Kanban Board** developed as part
 
 ---
 
-## 🏗️ Architecture & Technology
+## Architecture & Technology
 
 - **Frontend Core**: Pure Semantic HTML5, CSS3 Custom Properties (Dark Mode Theme), and Vanilla JavaScript (ES6+).
 - **Zero Third-Party Dependencies**: No external frameworks (React/Vue/Angular), no heavyweight CDNs, no tracking pixels.
@@ -47,7 +47,7 @@ A modern, responsive, and privacy-first **Agile Kanban Board** developed as part
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Option 1: Live Web App
 Open the GitHub Pages URL in any modern web browser:
@@ -70,7 +70,7 @@ Then visit `http://localhost:8000`.
 
 ---
 
-## ⚖️ Legal & Privacy Compliance
+## Legal & Privacy Compliance
 
 ### Privacy by Design (DSGVO / GDPR)
 - **100% Client-Side Execution**: All tasks, updates, and interactions stay strictly inside your local browser storage.
@@ -84,6 +84,6 @@ Then visit `http://localhost:8000`.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
